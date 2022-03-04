@@ -1,1 +1,1 @@
-#PadZone
+PadZone is a basic application that Associates two sets of people: an NGO (Non-Governmental Organization) and a woman who can't afford to buy a Sanitary Napkin. A woman can Download PadZone and give her details and when an NGO joins PadZone, the woman gets notified, and she can contact the NGO for assistance.
